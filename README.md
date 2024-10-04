@@ -10,7 +10,7 @@
   <h3 align="center">Modern UI/UX website</h3>
 
    <div align="center">
-     A React and Tailwind website made in practice for beautiful UI/UX.
+     A beautiful UI/UX website made for practicing React and Tailwind.
     </div>
 </div>
 
